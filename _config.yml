@@ -22,7 +22,7 @@ repository               : "chiahongchang/chiahongchang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg" # filename of avatar image placed in /images/, e.g. "my_photo.jpg"
+  avatar           : "profile.jpg" # filename of avatar image placed in /images/, e.g. "my_photo.jpg"
   name             : "Chia Hong Chang"
   pronouns         : # example: "she/her"  
   bio              : "Developer passionate about tech, design, and learning."
